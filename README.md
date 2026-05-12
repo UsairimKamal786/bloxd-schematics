@@ -31,7 +31,7 @@ Think of this as a **central archive** of my work.
 
 Special thanks to:
 
-- Me (obviously 😎)
+- Usairim Kamal
 - My Team Members  
 - BloxdHub  
 - Bloxdium  
