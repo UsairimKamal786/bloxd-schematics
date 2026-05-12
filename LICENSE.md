@@ -23,7 +23,7 @@ Copyright (c) 2026 Usairim
 If you use any schematic from this repository, you must clearly give credit:
 
 **Example:**
-> Schematic by Usairim or Bloxdium, Bloxdhub, or Bloxd.io (GitHub Repository)
+> Schematic by Bloxdium, Bloxdhub, or Bloxd.io (GitHub Repository)
 
 ---
 
